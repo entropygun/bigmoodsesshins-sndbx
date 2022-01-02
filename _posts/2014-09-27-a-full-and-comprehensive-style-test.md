@@ -2,7 +2,7 @@
 layout: post
 cover: 'assets/images/cover3.jpg'
 navigation: True
-title: A Full and Comprehensive Style Test
+title: HW A Full and Comprehensive Style Test
 date: 2014-09-27 10:18:00
 tags: test content
 subclass: 'post tag-test tag-content'
@@ -11,7 +11,7 @@ author: casper
 categories: casper
 ---
 
-<p>This is just an <em>ipsis verbis</em> copy of the first example running on the <a href="http://demo.ghost.io">Ghost Demo</a>. This shows how you can use html styling to achieve your hopes.</p>
+<p>HHHHWWWWWW This is just an <em>ipsis verbis</em> copy of the first example running on the <a href="http://demo.ghost.io">Ghost Demo</a>. This shows how you can use html styling to achieve your hopes.</p>
 
 
 <p>Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.</p>
