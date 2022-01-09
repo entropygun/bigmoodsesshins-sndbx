@@ -11,22 +11,17 @@ author: entropygun
 categories: sesshins
 ---
 
+<p align="center">
+    --Intro--
+</p>
 
-<!--- ![Hotei](https://upload.wikimedia.org/wikipedia/commons/archive/e/eb/20200501111650%21Hotei_and_children_carrying_lanterns.png "Hotei and Children Carrying Lanterns, by Utagawa Kuniyoshi 19th century") --->
-
-<!--![Bigmoodsesshinsgif](source/images/download_bigmoodsesshin001.gif)  -->
-
-<!--![alt text](source/images/download_bigmoodsesshin001.gif "Title Text")-->
-
- <!--<img src="source/images/download_bigmoodsesshin001.gif" alt="Hotei and frens" width="500" height="600"> -->
-
-## -Intro-
 
 Ahoy hoy! This is [@entropygun](https://discord.gg/4FgUScNF23) here on the [@NiftyRecordsNFT](https://niftyrecordsnft.com) community discord server running with an idea I tossed out on the `#ideas channel` and I have a bad habit of letting my big mouth get me in trouble so here I am hoping to not screw this up and if works I’ll be minting some artifacts to commemorate this event.
-
 ![NiftyRecordsNFT Header img](assets/images/Social_Header_Small.jpeg "NiftyRecordsNFT")
 
-## Part 1
+<p align="center">
+    --Part 1--
+</p>
 
 I'm going to be sharing some songs here that make up the sound track of my life and I think you just might dig them too.  So we're gonna kick things off tonight with a mic check of some vintage Tribe Called Quest, can I kick it? Yes I can. Here's _**Buggin Out**_, let's goooo!🚀
 
@@ -47,7 +42,9 @@ ok lets get back to some jams
 
 ...(_played next three tracks)
 
-## Part 2
+<p align="center">
+    --Part 2--
+</p>
 
 Now a word from our sponsors, psyche we don't have any sponsors, all we have is the stoke with this nascent little community here at **NiftyRecordsNFT**, tell your friends to come check it out
 
@@ -61,7 +58,9 @@ ok let's back to the music
 
 ...(_played next tracks_)  
 
-## Part 3
+<p align="center">
+    --Part 3--
+</p>
 
 Alrighty if you're still here or just joining, this is entropygun and thanks for listening to my very first live bigmood-sesshin here on the NiftyRecords community Discord server.  
 
