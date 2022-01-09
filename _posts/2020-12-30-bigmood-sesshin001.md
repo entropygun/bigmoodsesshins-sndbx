@@ -10,7 +10,7 @@ logo: 'assets/images/favicon.png'
 author: entropygun
 categories: sesshins
 ---
-</p>
+</br>
 <h2><p align="center">-Intro-</p></h2>
 Ahoy hoy! This is [@entropygun](https://discord.gg/4FgUScNF23) here on the [@NiftyRecordsNFT](https://niftyrecordsnft.com) community discord server running with an idea I tossed out on the `#ideas channel` and I have a bad habit of letting my big mouth get me in trouble so here I am hoping to not screw this up and if works I’ll be minting some artifacts to commemorate this event.
 ![NiftyRecordsNFT Header img](assets/images/Social_Header_Small.jpeg "NiftyRecordsNFT")
@@ -54,7 +54,8 @@ ok let's back to the music
 
 <h2><p align="center">
     -Part 3-
-</p></h2>
+</p>
+</h2>
 Alrighty if you're still here or just joining, this is entropygun and thanks for listening to my very first live bigmood-sesshin here on the NiftyRecords community Discord server.  
 
 **Track 9:** You just heard **Stereo Hearts by Gym Class Heros featuring Adam Levine**. This track really hits me right where it counts and the video doesn't disappoint either...  _All I ask is that you don't get mad at me, when you gotta purchase mad D batteries_! Haha
@@ -73,8 +74,6 @@ but right now let’s listen to one more jam before we wrap things up
 
 ---
 
-![Colophon](assets/images/colophon-icon.png)  
-<h4>Colophon</h4>
-
-All the things (_actually only some of the things_) that helped kick off this inaugural sesshin: another stormy night in Atlanta; Nifty Records NFT community on Discord; Monroe; DayDream; BabyLove; Ginger's reluctant and impatient Discord tech support - after all that just needed to disable the noise supression; Rasklfish; Minabug; Rufferito Bandito; CoachMike; SeanMillsArtist; theMakerStation, Dr. Shook, Hannah the intern; Viktor the volunteer; Dōgen; Budia; Saint Expeditus; random artists on the internet (_that are like faint flickering candles burning a little light into our lives_); juggling half a dozen music streaming services's free trial premium subscriptions (_only to find each missing a critical track in their own unique way_); a highly curated Pandora Music station (_that can not be replicated, it's like non fungible or something_); #beingbret's friends&family group chat updates on his post-surgery recovery; pints of cold brew coffee from Apotheos Roastery (_their Adventurer pecan flavored stuff_); Nespresso original-line Shanghai Lungo pours (_with a dash of hazelnut flavored almond milk_); kitchen-ground local roasted coffee beans in the moka pot; Baby Love's epic ginger bread cookies; LaCroix Pamplemousse fizzy water for hipsters; Sanpellegrino Aranciata Rosa (_it's fizzy blood orange!_); the 'dead week' between Christmas and New Year's; unlimited PTO for that elusive work-life-balance; mid-life crises; mental health days; self care; talking to myself as I try to figure it out; A Huge Ever Growing Pulsating Brain That Rules from the Centre of the Ultraworld; getting lost in my Relanote Graph; and Seeking refuge in the Buddha, the Dahrma, and the Sangha 🙏  
+![Colophon icon](assets/images/colophon-icon.png "Colophon icon)
+Colophon: All the things (_actually only some of the things_) that helped kick off this inaugural sesshin: another stormy night in Atlanta; Nifty Records NFT community on Discord; Monroe; DayDream; BabyLove; Ginger's reluctant and impatient Discord tech support - after all that just needed to disable the noise supression; Rasklfish; Minabug; Rufferito Bandito; CoachMike; SeanMillsArtist; theMakerStation, Dr. Shook, Hannah the intern; Viktor the volunteer; Dōgen; Budia; Saint Expeditus; random artists on the internet (_that are like faint flickering candles burning a little light into our lives_); juggling half a dozen music streaming services's free trial premium subscriptions (_only to find each missing a critical track in their own unique way_); a highly curated Pandora Music station (_that can not be replicated, it's like non fungible or something_); #beingbret's friends&family group chat updates on his post-surgery recovery; pints of cold brew coffee from Apotheos Roastery (_their Adventurer pecan flavored stuff_); Nespresso original-line Shanghai Lungo pours (_with a dash of hazelnut flavored almond milk_); kitchen-ground local roasted coffee beans in the moka pot; Baby Love's epic ginger bread cookies; LaCroix Pamplemousse fizzy water for hipsters; Sanpellegrino Aranciata Rosa (_it's fizzy blood orange!_); the 'dead week' between Christmas and New Year's; unlimited PTO for that elusive work-life-balance; mid-life crises; mental health days; self care; talking to myself as I try to figure it out; A Huge Ever Growing Pulsating Brain That Rules from the Centre of the Ultraworld; getting lost in my Relanote Graph; and Seeking refuge in the Buddha, the Dahrma, and the Sangha 🙏  
 [< YouTube Playlist for bigmood sesshins001 >](https://youtube.com/playlist?list=PLfvyalrCJ86rLf8wrft2QxKL1_j3kZQqC) 
