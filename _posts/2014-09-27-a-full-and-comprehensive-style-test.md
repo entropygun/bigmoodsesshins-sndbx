@@ -10,8 +10,9 @@ logo: 'assets/images/ghost.png'
 author: casper
 categories: casper
 ---
+![casper](assets/images/casper.png)  
 
-<p>HHHHWWWWWW This is just an <em>ipsis verbis</em> copy of the first example running on the <a href="http://demo.ghost.io">Ghost Demo</a>. This shows how you can use html styling to achieve your hopes.</p>
+<p>HW This is just an <em>ipsis verbis</em> copy of the first example running on the <a href="http://demo.ghost.io">Ghost Demo</a>. This shows how you can use html styling to achieve your hopes.</p>
 
 
 <p>Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.</p>
