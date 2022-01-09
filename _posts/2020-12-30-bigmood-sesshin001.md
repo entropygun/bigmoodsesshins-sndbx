@@ -20,9 +20,9 @@ categories: sesshins
 
  <!--<img src="source/images/download_bigmoodsesshin001.gif" alt="Hotei and frens" width="500" height="600"> -->
 
-## Intro
+## -Intro-
 
-Ahoy hoy! This is @entropygun here on the [**@NiftyRecordsNFT**](https://niftyrecordsnft.com) community discord server running with an idea I tossed out on the `#ideas channel` and I have a bad habit of letting my big mouth get me in trouble so here I am hoping to not screw this up and if works I’ll be minting some artifacts to commemorate this event.
+Ahoy hoy! This is [@entropygun](https://discord.gg/4FgUScNF23) here on the [@NiftyRecordsNFT](https://niftyrecordsnft.com) community discord server running with an idea I tossed out on the `#ideas channel` and I have a bad habit of letting my big mouth get me in trouble so here I am hoping to not screw this up and if works I’ll be minting some artifacts to commemorate this event.
 
 ![NiftyRecordsNFT Header img](assets/images/Social_Header_Small.jpeg "NiftyRecordsNFT")
 
