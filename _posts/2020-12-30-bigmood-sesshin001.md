@@ -10,14 +10,13 @@ logo: 'assets/images/favicon.png'
 author: entropygun
 categories: sesshins
 ---
-</br>
-<h2><p align="center">-Intro-</p></h2>
+  
+    
+![Intro](assets/images/intro.png "Intro")  
 Ahoy hoy! This is [@entropygun](https://discord.gg/4FgUScNF23) here on the [@NiftyRecordsNFT](https://niftyrecordsnft.com) community discord server running with an idea I tossed out on the `#ideas channel` and I have a bad habit of letting my big mouth get me in trouble so here I am hoping to not screw this up and if works I’ll be minting some artifacts to commemorate this event.
 ![NiftyRecordsNFT Header img](assets/images/Social_Header_Small.jpeg "NiftyRecordsNFT")
 
-<h2><p align="center">
-    -Part 1-
-</p></h2>
+![Part 1](assets/images/part1.png "Part 1")
 I'm going to be sharing some songs here that make up the sound track of my life and I think you just might dig them too.  So we're gonna kick things off tonight with a mic check of some vintage Tribe Called Quest, can I kick it? Yes I can. Here's _**Buggin Out**_, let's goooo!🚀
 
 ...(_played first three tracks of this YouTube Playlist:_)  
@@ -37,9 +36,7 @@ ok lets get back to some jams
 
 ...(_played next three tracks)
 
-<h2><p align="center">
-    -Part 2-
-</p></h2>
+![Part 2](assets/images/part2.png "Part 2")  
 Now a word from our sponsors, psyche we don't have any sponsors, all we have is the stoke with this nascent little community here at [NiftyRecordsNFT](https://www.niftyrecordsnft.com), tell your friends to come check it out
 
 **Track 6:** You just heard **Sun is Shing by Bob Marley vs Funkstar De Luxe (Funkstars club mix)** because well I'm a rainbow too! Also fun fact I don't remember when I picked up this track but it was back in the Napster peer-to-peer sharing era where we all just carelessly shared our collections and downloaded every mp3 we could find to burn onto CD-Roms... holy moly that was a lot of effort, but it is fitting that the block-chain was built off the ruins of those early peer-to-peer networks, they don't call it that anymore, these days they're calling it decentralized, but it's the same thing
@@ -52,10 +49,7 @@ ok let's back to the music
 
 ...(_played next three tracks_)  
 
-<h2><p align="center">
-    -Part 3-
-</p>
-</h2>
+![Part 3](assets/images/part3.png "Part 3")  
 Alrighty if you're still here or just joining, this is entropygun and thanks for listening to my very first live bigmood-sesshin here on the NiftyRecords community Discord server.  
 
 **Track 9:** You just heard **Stereo Hearts by Gym Class Heros featuring Adam Levine**. This track really hits me right where it counts and the video doesn't disappoint either...  _All I ask is that you don't get mad at me, when you gotta purchase mad D batteries_! Haha
