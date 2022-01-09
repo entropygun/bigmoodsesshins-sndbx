@@ -48,7 +48,7 @@ lsi: false
 username: entropygun
 repo: jasper-sndbx
 branch: master
-relative_source: ../jasper-sndbx/
+relative_source: ../jasper/
 destination: ../jasper-pages/
 production_url:  https://entropygun.github.io/jasper-sndbx/  
 source_url:  https://github.com/entropygun/jasper-sndbx/
