@@ -46,7 +46,7 @@ plugins: [jekyll-paginate]
 safe: false
 lsi: false
 username: entropygun
-repo: jasper
+repo: jasper-sndbx
 branch: master
 relative_source: ../jasper/
 destination: ../jasper-pages/
