@@ -2,12 +2,12 @@
 layout: page
 title: About
 navigation: true
-logo: 'assets/images/ghost.png'
+logo: 'assets/images/colophon-icon.png'
 current: about
 ---
 
-This is a demo blog for Ghost, it contains dummy content which allows you to click around and see what a Ghost blog running the default theme looks like.
+This is a blog for entropygun, it contains setnotes and artifacts for the voicechannel sesshin events over on the [NiftyRecordsNFT community Discord server](https://discord.gg/4FgUScNF23).
 
-We use this for testing and for reference!
+We use this for documentation!
 
-If you'd like to set up your own blog, head on over to [https://ghost.org](https://ghost.org) and sign up.
+If you'd like to learn more about the innovative NiftyRecordsNFT project, head on over to [www.NiftyRecordsNFT.com/](https://www.niftyrecordsnft.com/) and sign up.
