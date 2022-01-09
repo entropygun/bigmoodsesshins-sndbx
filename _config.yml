@@ -7,14 +7,14 @@ paginate: 5
 language: 'en-uk'
 
 # Website info
-name: 'Jasper Sandbox'
-description: "A sandbox for learning"
+name: 'Finding The Way Home'
+description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
 
 short_url: 'entropygun/jasper-sndbx/'
-#google_analytics: XX-XXXXXXXX-X
+#google_analytics: UA-69281367-1
 #disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /jasper-sndbx
+baseurl: /jasper-sndbx/
 
 # Permalinks
 permalink: /:title
@@ -45,13 +45,13 @@ plugins: [jekyll-paginate]
 # or "master" otherwise
 safe: false
 lsi: false
-username: entropygun
+username: jekyllt
 repo: jasper
 branch: master
 relative_source: ../jasper/
 destination: ../jasper-pages/
-production_url:  https://entropygun.github.io/jasper-sndbx/  
-source_url:  https://github.com/entropygun/jasper-sndbx/
+production_url:  https://jekyllt.github.io/jasper/
+source_url:  https://github.com/jekyllt/jasper/
 
 exclude:
   - README.md
